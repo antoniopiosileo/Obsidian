@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prova syncing github.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prova syncing github"
+              "title": "README"
             }
           }
         ]
@@ -179,7 +179,7 @@
   },
   "active": "6dfdd7dcb23dffc7",
   "lastOpenFiles": [
-    "README.md",
-    "prova syncing github.md"
+    "prova syncing github.md",
+    "README.md"
   ]
 }
