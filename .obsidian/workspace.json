@@ -11,10 +11,14 @@
             "id": "6dfdd7dcb23dffc7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "prova syncing github.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "prova syncing github"
             }
           }
         ]
@@ -174,5 +178,7 @@
     }
   },
   "active": "6dfdd7dcb23dffc7",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "prova syncing github.md"
+  ]
 }
