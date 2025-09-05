@@ -11,14 +11,14 @@
             "id": "9480bf4f1d470ea7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Prova Ink.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Prova Ink.md",
+                "bFile": "Prova Ink.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Prova Ink"
+              "icon": "diff",
+              "title": "Diff: Prova Ink"
             }
           }
         ]
@@ -181,10 +181,190 @@
   "lastOpenFiles": [
     "Prova Ink.md",
     "prova syncing github.md",
+    "README.md",
     "Ink/Drawing/2025.9.4 - 16.28pm.drawing",
     "Ink/Drawing",
     "Ink",
-    "Senza nome.md",
-    "README.md"
+    "Senza nome.md"
+  ]
+} {
+            "id": "9480bf4f1d470ea7",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Prova Ink.md",
+                "bFile": "Prova Ink.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Prova Ink"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c01e3b9aa433a4d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cb0bc1a95f02cc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10292941979b3284",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "c7bbbf501cee4b0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "052348cd2c528a97",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "edd3290a7785eea0",
+    "type": "split",
+    "children": [
+      {
+        "id": "29f769c794c54790",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96cebb9592fda710",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti"
+            }
+          },
+          {
+            "id": "6cf47b43a9ccb0b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita"
+            }
+          },
+          {
+            "id": "931af7450f07b938",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "b66ee3a830f6b080",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
+          },
+          {
+            "id": "8e78876d460a41b6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9480bf4f1d470ea7",
+  "lastOpenFiles": [
+    "Prova Ink.md",
+    "prova syncing github.md",
+    "README.md",
+    "Ink/Drawing/2025.9.4 - 16.28pm.drawing",
+    "Ink/Drawing",
+    "Ink",
+    "Senza nome.md"
   ]
 }
