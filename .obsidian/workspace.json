@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prova syncing github.md",
+                "file": "Prova Ink.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prova syncing github"
+              "title": "Prova Ink"
             }
           }
         ]
@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +180,12 @@
   },
   "active": "9480bf4f1d470ea7",
   "lastOpenFiles": [
-    "Senza nome.md",
     "prova syncing github.md",
+    "Prova Ink.md",
+    "Ink/Drawing/2025.9.4 - 16.28pm.drawing",
+    "Ink/Drawing",
+    "Ink",
+    "Senza nome.md",
     "README.md"
   ]
 }
