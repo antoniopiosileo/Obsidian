@@ -11,14 +11,14 @@
             "id": "9480bf4f1d470ea7",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Ink/Drawing/2025.9.4 - 16.28pm.drawing",
-                "bFile": "Ink/Drawing/2025.9.4 - 16.28pm.drawing",
-                "aRef": ""
+                "file": "Prova Ink.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 2025.9.4 - 16.28pm.drawing"
+              "icon": "lucide-file",
+              "title": "Prova Ink"
             }
           }
         ]
