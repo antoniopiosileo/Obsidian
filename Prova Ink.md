@@ -7,4 +7,5 @@
 	"aspectRatio": 1.8537549407114624
 }
 ```
-Questa era una espressione matematica totalmente casuale per provare ink
+funzionerà?
+
